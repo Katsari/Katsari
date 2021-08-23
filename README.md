@@ -81,7 +81,7 @@
 
 <div align="center">
   <a href="https://github.com/Katsari">
-    <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=Katsari&count_private=true&show_icons=true&theme=buefy"/>
-    <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsari&layout=compact&hide=php&langs_count=6&theme=buefy"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Katsari&count_private=true&show_icons=true&theme=buefy"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsari&layout=compact&hide=php&langs_count=6&theme=buefy"/>
   </a>
 </div>
