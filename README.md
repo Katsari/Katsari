@@ -28,6 +28,8 @@
 
 ## Languages and tools
 
+#### Backend development
+
 <a href="https://www.ruby-lang.org/en">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="25" />
 </a>
@@ -37,12 +39,20 @@
 <a href="https://www.postgresql.org">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
 </a>
-<br>
+<a href="https://www.mysql.com">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
+</a>
+
+#### Frontend development
+
 <a href="#">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" />
@@ -56,6 +66,9 @@
 <a href="https://quasar.dev">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" height="25" />
 </a>
+<a href="https://getbootstrap.com/">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" />
+</a>
 <br>
 <a href="https://www.adobe.com/products/photoshop.html">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="25" />
@@ -63,18 +76,20 @@
 <a href="https://www.adobe.com/products/xd.html">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="25" />
 </a>
-<br>
-<a href="https://www.atlassian.com/software/jira">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="25" />
-</a>
-<a href="https://www.netlify.com">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25" />
-</a>
+
+#### Cloud platforms and deployment
+
 <a href="https://www.digitalocean.com">
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" height="25" />
 </a>
 <a href="https://www.heroku.com">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25" />
+</a>
+<a href="https://www.netlify.com">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25" />
+</a>
+<a href="https://www.nginx.com">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25" />
 </a>
 
 ## Github analytics
