@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋</h1>
-  <p>I'm a Full Stack developer, working mainly with the Ruby on Rails and Vue.js ecosystem.</p>
+  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Ruby on Rails and Vue.js. You can find or contact me on:</p>
 
   <a href="https://www.linkedin.com/in/maria-gabriela-guarecuco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,7 +18,7 @@
 
 <hr>
 
-### About me
+## About me
 
 - 👩‍🔬 Chemical Engineer turned developer.
 - 💻 Currently developing solutions for industrial operations management and automation at <a href="https://agromatic.com.ve" target="_blank">Agromatic</a>.
@@ -26,7 +26,7 @@
 - 🔭 Looking to collaborate on open source projects involving Vue.js and Rails.
 - 📩 Feel free to reach out to me for any questions or just an interesting discussion!
 
-### Languages and tools
+## Languages and tools
 
 <a href="https://www.ruby-lang.org/en">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="25" />
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25" />
 </a>
 
-### Github stats
+## Github analytics
 
 <div align="center">
   <a href="https://github.com/Katsari">
