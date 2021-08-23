@@ -1,6 +1,10 @@
 ### Hey there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsari&show_icons=true&theme=tokyonight)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsari&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsari)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
