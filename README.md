@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋</h1>
-  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Ruby on Rails, Nest.js and Vue.js. You can find or contact me on:</p>
+  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Ruby on Rails, Node.js and Vue.js. You can find or contact me on:</p>
 
   <a href="https://www.linkedin.com/in/maria-gabriela-guarecuco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,6 +35,9 @@
 </a>
 <a href="https://rubyonrails.org">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="25" />
+</a>
+<a href="https://nestjs.com">
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" height="25" />
 </a>
 <a href="https://www.postgresql.org">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />
