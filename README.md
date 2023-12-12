@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋</h1>
-  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Ruby on Rails and Vue.js. You can find or contact me on:</p>
+  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Ruby on Rails, Nest.js and Vue.js. You can find or contact me on:</p>
 
   <a href="https://www.linkedin.com/in/maria-gabriela-guarecuco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,7 +23,7 @@
 - 👩‍🔬 Chemical Engineer turned developer.
 - 💻 Currently developing solutions for industrial operations management and automation at <a href="https://agromatic.com.ve" target="_blank">Agromatic</a>.
 - 🌱 Learning every single day.
-- 🔭 Looking to collaborate on open source projects involving Vue.js and Rails.
+- 🔭 Looking to collaborate on open source projects.
 - 📩 Feel free to reach out to me for any questions or just an interesting discussion!
 
 ## Languages and tools
