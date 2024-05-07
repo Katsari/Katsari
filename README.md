@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋</h1>
-  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Vue.js, Node.js and Ruby on Rails. You can find or contact me on:</p>
+  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Python, Vue.js and Node.js. Currently focused on trying to understand and drive positive impact with AI/LLMs. You can find or contact me on:</p>
 
   <a href="https://www.linkedin.com/in/maria-gabriela-guarecuco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,16 +20,19 @@
 
 ## About me
 
-- 👩‍🔬 Chemical Engineer turned developer.
-- 💻 Currently developing solutions for industrial operations management and automation at <a href="https://agromatic.com.ve" target="_blank">Agromatic</a>.
+- 👩‍🔬 Full-stack engineer, previously a chemical engineer.
+- 💻 Developing solutions for industrial operations management and automation at <a href="https://agromatic.com.ve" target="_blank">Agromatic</a>.
 - 🌱 Learning every single day.
 - 🔭 Looking to collaborate on open source projects.
-- 📩 Feel free to reach out to me for any questions or just an interesting discussion!
+- 📩 Feel free to reach out to me for any questions or interesting discussions!
 
 ## Languages and tools
 
 #### Backend development
 
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" />
+</a>
 <a href="https://www.ruby-lang.org/en">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="25" />
 </a>
