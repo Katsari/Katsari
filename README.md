@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋</h1>
-  <p>I'm Maria Gabriela — a software engineer who enjoys building apps and solving problems using Python, Vue.js and Node.js. Currently focused on trying to understand and drive positive impact with AI and large language models, which I consider to be the most important technology of our time. You can find or contact me on:</p>
+  <p>I'm Maria Gabriela — a software engineer who enjoys building and solving problems with Python, Vue.js and Node.js. Currently focused on trying to understand and drive positive impact with AI and large language models, which I consider to be the technology with the greatest significance of our time. You can find or contact me on:</p>
 
   <a href="https://www.linkedin.com/in/maria-gabriela-guarecuco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
