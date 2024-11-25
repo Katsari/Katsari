@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋</h1>
-  <p>I'm Maria Gabriela, a software engineer who enjoys building apps and solving problems using Python, Vue.js and Node.js. Currently focused on trying to understand and drive positive impact with AI/LLMs. You can find or contact me on:</p>
+  <p>I'm Maria Gabriela — a software engineer who enjoys building apps and solving problems using Python, Vue.js and Node.js. Currently focused on trying to understand and drive positive impact with AI and large language models, which I consider to be the most important technology of our time. You can find or contact me on:</p>
 
   <a href="https://www.linkedin.com/in/maria-gabriela-guarecuco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -49,15 +49,6 @@
 #### Frontend development
 
 <a href="#">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25" />
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" />
 </a>
 <a href="https://vuejs.org">
@@ -69,8 +60,8 @@
 <a href="https://quasar.dev">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" height="25" />
 </a>
-<a href="https://getbootstrap.com/">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25" />
+<a href="https://tailwindcss.com">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" height="25" />
 </a>
 <br>
 <a href="https://www.adobe.com/products/photoshop.html">
@@ -85,16 +76,17 @@
 <a href="https://www.digitalocean.com">
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" height="25" />
 </a>
-<a href="https://www.heroku.com">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25" />
-</a>
 <a href="https://www.netlify.com">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25" />
 </a>
 <a href="https://www.nginx.com">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25" />
 </a>
+<a href="https://www.heroku.com">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25" />
+</a>
 
+<!-- >
 ## Github analytics
 
 <div align="center">
@@ -103,3 +95,4 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsari&layout=compact&hide=php&langs_count=6&theme=buefy"/>
   </a>
 </div>
+-->
