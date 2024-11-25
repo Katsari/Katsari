@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋</h1>
-  <p>My name is Maria Gabriela, I'm a Software Engineer who enjoys building apps and solving problems using Python, Vue.js and Node.js. Currently focused on trying to understand and drive positive impact with AI/LLMs. You can find or contact me on:</p>
+  <p>I'm Maria Gabriela, a software engineer who enjoys building apps and solving problems using Python, Vue.js and Node.js. Currently focused on trying to understand and drive positive impact with AI/LLMs. You can find or contact me on:</p>
 
   <a href="https://www.linkedin.com/in/maria-gabriela-guarecuco">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
