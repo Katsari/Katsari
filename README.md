@@ -23,8 +23,7 @@
 - 👩‍🔬 Full-stack engineer, previously a chemical engineer.
 - 💻 Developing solutions for industrial operations management and automation at <a href="https://agromatic.com.ve" target="_blank">Agromatic</a>.
 - 🌱 Learning every day.
-- 🔭 Looking to collaborate on open source projects.
-- 📩 Feel free to reach out to me for any questions or an interesting discussion!
+- 📩 Feel free to reach out to me for any questions!
 
 ## Languages and tools
 
